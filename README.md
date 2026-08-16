@@ -1,5 +1,3 @@
-# End-to-End-Macroeconomic-Market-Risk-Intelligence-Dashboard.
-End-to-end data analytics and ETL pipeline analyzing the macroeconomic, market, and sector-level impacts of US trade policy and tariff shifts. Integrates Python data processing, SQL database modeling, and interactive Power BI dashboards to track trade volumes, market drawdown, and sentiment indicators.
 # 📈 US Tariff & Trade War Impact Analysis
 
 An end-to-end data engineering and analytics project analyzing the macroeconomic, market, and supply chain impacts of US tariff policy changes and trade tensions.
